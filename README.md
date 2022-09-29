@@ -67,15 +67,15 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
+
+#### SERIAL MONITOR
+
+#### OUTPUT
+
+#### TOOGLE GRAPH
+
+#### OUTPUT
  
-
-
-
-
-
-
-
-
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.

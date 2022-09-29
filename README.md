@@ -103,6 +103,8 @@ void loop()
 
 ```
 #### OUTPUT
+![OP1](https://user-images.githubusercontent.com/93901857/193079730-0010223c-f7d7-455e-81ea-bce40500200f.jpg)
+
 
 #### TOOGLE GRAPH
 
@@ -139,7 +141,8 @@ void loop()
 ```
 
 #### OUTPUT
- 
+ ![OP2](https://user-images.githubusercontent.com/93901857/193079788-9700cabe-61d5-4829-9d65-55b6d3901aa0.jpg)
+
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
